@@ -39,7 +39,7 @@ body {
   align-items: center;
   justify-items: center;
   justify-content: center;
-  background-image:url(./showcase.jpg);
+  background-image:url(./img/showcase.jpg);
   color: white;
 }
  
@@ -204,7 +204,7 @@ body {
   display: flex;
   background-color: #636e81;
   font-size: 12px;
-  padding: 30px;
+  padding: 25px;
   align-items: center;
   justify-content: center;
   text-align: center;
